@@ -3,6 +3,7 @@
 # Free T-shirts, Free Stickers and more for Developers!
 
 This awesome article contains currently available free tshirts, free stickers and other free swags for developers :smiley: <br>
+<i>Entirely coded by me :smiley:</i> <br>
 
 **:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**
 
