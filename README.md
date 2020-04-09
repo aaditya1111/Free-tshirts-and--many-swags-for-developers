@@ -3,7 +3,7 @@
 # Free T-shirts, Free Stickers and more for Developers!
 
 This awesome article contains currently available free tshirts, free stickers and other free swags for developers :) <br>
-<i>Entirely coded by me (Aaditya Kumar Rai) :smiley:</i> <br>
+<i>---> Entirely coded by me (Aaditya Kumar Rai) :smiley:</i> <br>
 
 
 <b> Star :star: the repo for your reference & Follow for being updated with more developer facts. </b>
