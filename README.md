@@ -6,7 +6,7 @@ This awesome article contains currently available free tshirts, free stickers an
 <i>Entirely coded by me (Aaditya Kumar Rai) :smiley:</i> <br>
 
 
-# Star :star: the repo for your reference && Follow for being updated with more developer facts.
+<b> Star :star: the repo for your reference & Follow for being updated with more developer facts. </b>
 
 Note: Swags with :heavy_check_mark: on it's title has been received by one or more of our collaborators. <br>
 
